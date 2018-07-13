@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Linux/arm64 3.18.108 Kernel Configuration
+# Linux/arm64 3.18.112 Kernel Configuration
 #
 CONFIG_VENDOR_LEECO=y
 CONFIG_ARM64=y
@@ -4031,6 +4031,7 @@ CONFIG_MSDOS_FS=y
 CONFIG_VFAT_FS=y
 CONFIG_FAT_DEFAULT_CODEPAGE=437
 CONFIG_FAT_DEFAULT_IOCHARSET="iso8859-1"
+CONFIG_EXFAT_FS=y
 # CONFIG_NTFS_FS is not set
 
 #
